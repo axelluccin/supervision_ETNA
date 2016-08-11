@@ -1,0 +1,1 @@
+-IC:/Users/axel/Documents/test_pro -isystem C:/Qt/Qt5.1.1/5.1.1/mingw48_32/include -isystem C:/Qt/Qt5.1.1/5.1.1/mingw48_32/include/QtWidgets -isystem C:/Qt/Qt5.1.1/5.1.1/mingw48_32/include/QtGui -isystem C:/Qt/Qt5.1.1/5.1.1/mingw48_32/include/QtCore -isystem C:/Qt/Qt5.1.1/5.1.1/mingw48_32/mkspecs/win32-g++ -isystem C:/Qt/Qt5.1.1/5.1.1/mingw48_32/include/QtNetwork 

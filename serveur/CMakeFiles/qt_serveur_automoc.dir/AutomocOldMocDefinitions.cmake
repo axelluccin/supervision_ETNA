@@ -1,0 +1,1 @@
+set(AM_OLD_COMPILE_SETTINGS "QT_CORE_LIB;QT_NETWORK_LIB;QT_NO_DEBUG ~~~ C:/Users/axel/Documents/TEST;C:/Qt/Qt5.1.1/5.1.1/mingw48_32/include;C:/Qt/Qt5.1.1/5.1.1/mingw48_32/include/QtNetwork;C:/Qt/Qt5.1.1/5.1.1/mingw48_32/include/QtCore;C:/Qt/Qt5.1.1/5.1.1/mingw48_32/mkspecs/win32-g++ ~~~  ~~~ FALSE ~~~ ")

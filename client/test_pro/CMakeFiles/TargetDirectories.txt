@@ -1,0 +1,4 @@
+C:/Users/axel/Documents/test_pro/CMakeFiles/qt_client.dir
+C:/Users/axel/Documents/test_pro/CMakeFiles/edit_cache.dir
+C:/Users/axel/Documents/test_pro/CMakeFiles/rebuild_cache.dir
+C:/Users/axel/Documents/test_pro/CMakeFiles/qt_client_automoc.dir
